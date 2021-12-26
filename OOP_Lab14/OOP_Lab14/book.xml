@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book name="Ogniennyj Bog Marranow">
+    <author>Volkov</author>
+    <price>40</price>
+  </Book>
+  <Book name="Jeltyj tuman">
+    <author>Volkov</author>
+    <price>20</price>
+  </Book>
+    <Book name="Harru Pottur">
+    <author>Nevolkov</author>
+    <price>80</price>
+  </Book>
+</Books>

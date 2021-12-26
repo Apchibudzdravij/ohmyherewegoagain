@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<One xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <two>
+    <Two>
+      <three>
+        <Three>
+          <num>15</num>
+        </Three>
+        <Three>
+          <num>4</num>
+        </Three>
+        <Three>
+          <num>-12</num>
+        </Three>
+        <Three xsi:nil="true" />
+      </three>
+    </Two>
+    <Two>
+      <three>
+        <Three>
+          <num>0</num>
+        </Three>
+        <Three>
+          <num>4</num>
+        </Three>
+        <Three xsi:nil="true" />
+        <Three xsi:nil="true" />
+      </three>
+    </Two>
+  </two>
+</One>

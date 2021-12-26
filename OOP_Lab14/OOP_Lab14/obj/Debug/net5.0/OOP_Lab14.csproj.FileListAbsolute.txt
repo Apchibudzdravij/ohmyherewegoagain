@@ -1,0 +1,16 @@
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\bin\Debug\net5.0\OOP_Lab14.exe
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\bin\Debug\net5.0\OOP_Lab14.deps.json
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\bin\Debug\net5.0\OOP_Lab14.runtimeconfig.json
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\bin\Debug\net5.0\OOP_Lab14.runtimeconfig.dev.json
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\bin\Debug\net5.0\OOP_Lab14.dll
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\bin\Debug\net5.0\ref\OOP_Lab14.dll
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\bin\Debug\net5.0\OOP_Lab14.pdb
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\obj\Debug\net5.0\OOP_Lab14.csproj.AssemblyReference.cache
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\obj\Debug\net5.0\OOP_Lab14.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\obj\Debug\net5.0\OOP_Lab14.AssemblyInfoInputs.cache
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\obj\Debug\net5.0\OOP_Lab14.AssemblyInfo.cs
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\obj\Debug\net5.0\OOP_Lab14.csproj.CoreCompileInputs.cache
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\obj\Debug\net5.0\OOP_Lab14.dll
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\obj\Debug\net5.0\ref\OOP_Lab14.dll
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\obj\Debug\net5.0\OOP_Lab14.pdb
+D:\ExtendedData\Laboratory\ООТПиСП\Labl14\OOP_Lab14\OOP_Lab14\obj\Debug\net5.0\OOP_Lab14.genruntimeconfig.cache
